@@ -1,2 +1,3 @@
-# OPeN---Data-Augmentation
-This repository contains the implementation of OPeN data augmentation method and my personal notes to understand the paper.
+# Pure Noise to the Rescue of Insufficient Data: Improving Imbalanced Classification by Training on Random Noise Images
+
+
